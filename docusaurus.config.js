@@ -49,12 +49,12 @@ const config = {
             label: 'User guide',
           },
           {
-            href: '#',
+            href: '/about',
             label: 'About Winnie_Bot',
             position: 'left'
           },
           {
-            href: '#',
+            href: '/contact',
             label: 'Contact us',
             position: 'left'
           },
